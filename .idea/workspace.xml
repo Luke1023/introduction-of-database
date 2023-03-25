@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76a127fd-8773-49b3-9b1f-58fcca3d5afc" name="변경" comment="Study about Database Basics in university">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Second/Database_Management_System.java" afterDir="false" />
+    <list default="true" id="76a127fd-8773-49b3-9b1f-58fcca3d5afc" name="변경" comment="Study about Database_Management_System in university">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Thrid/Data_modeling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +42,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
@@ -59,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678950828017</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Study about Database_Management_System in university">
+      <created>1678951163551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678951163551</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Study about Database Basics in university" />
-    <option name="LAST_COMMIT_MESSAGE" value="Study about Database Basics in university" />
+    <MESSAGE value="Study about Database_Management_System in university" />
+    <option name="LAST_COMMIT_MESSAGE" value="Study about Database_Management_System in university" />
   </component>
 </project>
